@@ -1,2 +1,2 @@
 # Add your variables here
-first_name = "Hello world!"
+first_number = 4
